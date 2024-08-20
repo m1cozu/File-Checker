@@ -15,16 +15,15 @@
 
 To get started with File-Checker, follow these steps:
 
-1. **Clone the Repository:**
+1. **Tutorial**
 
    ```bash
-   git clone https://github.com/m1cozu/File-Checker.git
-
-   cd File-Checker
-
+   - Install the zip file
+   - move the python file inside the folder what you want to scan
+   - Open cmd inside folder and run:
    pip install colorama tqdm watchdog
-
-   python File-Checker.py
+   - cd File-Checker
+   - And lastly run in cmd: python File-Checker.py
 
 
    
