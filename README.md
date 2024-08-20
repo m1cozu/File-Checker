@@ -22,7 +22,7 @@ To get started with File-Checker, follow these steps:
    - move the python file inside the folder what you want to scan
    - Open cmd inside folder and run:
    pip install colorama tqdm watchdog
-   - cd File-Checker
+
    - And lastly run in cmd: python File-Checker.py
 
 
