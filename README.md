@@ -19,3 +19,15 @@ To get started with File-Checker, follow these steps:
 
    ```bash
    git clone https://github.com/m1cozu/File-Checker.git
+
+   cd File-Checker
+
+   pip install colorama tqdm watchdog
+
+   python File-Checker.py
+
+
+   
+
+
+   
